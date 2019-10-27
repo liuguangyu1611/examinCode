@@ -14,3 +14,4 @@ function InputNumber(props){
         </div>
     )
 }
+export default InputNumber ;
